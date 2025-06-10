@@ -1,0 +1,11 @@
+# Allow all bots full access to public content
+User-agent: *
+
+# Block sensitive or non-public folders (edit as needed)
+Disallow: /impressum.html
+
+# Allow everything else
+Allow: /
+
+# Link to your sitemap
+Sitemap: https://www.getrising.uk/sitemap.xml

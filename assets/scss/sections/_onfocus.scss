@@ -1,0 +1,83 @@
+// main: ../main.scss
+/*--------------------------------------------------------------
+# Onfocus Section
+--------------------------------------------------------------*/
+.onfocus {
+  padding: 0;
+
+  .video-play {
+    min-height: 400px;
+    background: linear-gradient(color-mix(in srgb, var(--background-color), transparent 90%), color-mix(in srgb, var(--background-color), transparent 75%)), url("../img/onfocus-video-bg.jpg") center center;
+    background-size: cover;
+  }
+
+  .content {
+    background: linear-gradient(color-mix(in srgb, var(--background-color), transparent 90%), color-mix(in srgb, var(--background-color), transparent 75%)), url("../img/onfocus-content-bg.jpg") center center;
+    background-size: cover;
+    padding: 40px;
+
+    @media (min-width: 768px) {
+      padding: 80px;
+    }
+
+    h3 {
+      font-weight: 600;
+      font-size: 32px;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+
+      li {
+        padding-bottom: 10px;
+      }
+
+      i {
+        font-size: 20px;
+        padding-right: 4px;
+        color: var(--accent-color);
+      }
+    }
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+
+    .read-more {
+      font-weight: 500;
+      font-size: 16px;
+      letter-spacing: 1px;
+      padding: 12px 24px;
+      border-radius: 5px;
+      transition: 0.3s;
+      display: -nline-flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--contrast-color);
+      background: var(--accent-color);
+
+      i {
+        font-size: 18px;
+        margin-left: 5px;
+        line-height: 0;
+        transition: 0.3s;
+      }
+
+      &:hover {
+        background: color-mix(in srgb, var(--accent-color) 90%, black 15%);
+        padding-right: 19px;
+
+        i {
+          margin-left: 10px;
+        }
+      }
+    }
+  }
+
+  .pulsating-play-btn {
+    position: absolute;
+    left: calc(50% - 47px);
+    top: calc(50% - 47px);
+  }
+}

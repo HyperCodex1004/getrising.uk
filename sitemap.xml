@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                      http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <url>
+    <loc>https://www.getrising.uk/index.html</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.getrising.uk/services.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.getrising.uk/team.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.getrising.uk/blog.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.getrising.uk/contact.html</loc>
+  </url>
+
+  <!-- Blog categories -->
+  <url>
+    <loc>https://www.getrising.uk/blog/compliance/</loc>
+  </url>
+  <url>
+    <loc>https://www.getrising.uk/blog/security/</loc>
+  </url>
+  <url>
+    <loc>https://www.getrising.uk/blog/risk-management/</loc>
+  </url>
+  <url>
+    <loc>https://www.getrising.uk/blog/governance/</loc>
+  </url>
+  <url>
+    <loc>https://www.getrising.uk/blog/data-protection/</loc>
+  </url>
+    <url>
+    <loc>https://www.getrising.uk/blog/network-infrastructure/</loc>
+  </url>
+
+  <!-- Legal pages -->
+  <url>
+    <loc>https://www.getrising.uk/privacy-policy.html</loc>
+  </url>
+  <url>
+    <loc>https://www.getrising.uk/cookie-policy.html</loc>
+  </url>
+  <url>
+    <loc>https://www.getrising.uk/terms-of-service.html</loc>
+  </url>
+  <url>
+    <loc>https://www.getrising.uk/security-statement.html</loc>
+  </url>
+  <url>
+    <loc>https://www.getrising.uk/accessibility.html</loc>
+  </url>
+  <url>
+    <loc>https://www.getrising.uk/impressum.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.getrising.uk/sitemap.html</loc>
+  </url>
+
+</urlset>
