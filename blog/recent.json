@@ -1,7 +1,7 @@
 [
   {
     "title": "DORA Compliance: Is It Relevant for Finance Companies (Even Outside the EU)?",
-    "url": "/dora-compliance-finance-companies.html",
+    "url": "blog/compliance/dora-compliance-finance-companies.html",
     "author": "Silviu Negoita",
     "date": "2025-04-05",
     "img": "assets/img/blog/blog-1.jpg",
@@ -9,7 +9,7 @@
   },
   {
     "title": "Cyber Essentials Explained: Costs, Benefits & Why You Should Consider It",
-    "url": "/blog/cyber-essentials-costs-benefits.html",
+    "url": "cyber-essentials-costs-benefits.html",
     "author": "Silviu Negoita",
     "date": "2025-04-05",
     "img": "assets/img/blog/blog-1.jpg",
@@ -17,7 +17,7 @@
   },
   {
     "title": "NIS2 Gap Analysis: What Business Leaders Must Know Before the Audit",
-    "url": "/blog/nis2-gap-analysis-business-audit.html",
+    "url": "nis2-gap-analysis-business-audit.html",
     "author": "Silviu Negoita",
     "date": "2025-04-05",
     "img": "assets/img/blog/blog-1.jpg",
@@ -25,7 +25,7 @@
   },
   {
     "title": "NIS2 and UK Businesses: Why It Matters Even Beyond the EU",
-    "url": "/blog/nis2-uk-businesses-importance.html",
+    "url": "nis2-uk-businesses-importance.html",
     "author": "Silviu Negoita",
     "date": "2025-04-05",
     "img": "assets/img/blog/blog-1.jpg",
@@ -33,7 +33,7 @@
   },
   {
     "title": "Top Cybersecurity Risks for SMBs in 2024 (And How to Tackle Them)",
-    "url": "/blog/cybersecurity-risks-smbs-2024.html",
+    "url": "cybersecurity-risks-smbs-2024.html",
     "author": "Laurentiu Mihaila",
     "date": "2024-04-15",
     "img": "assets/img/blog/blog-1.jpg",
@@ -41,7 +41,7 @@
   },
   {
     "title": "The Fall of Knights of Old: A Brutal Lesson in Cybersecurity",
-    "url": "/blog/cybersecurity-lesson-knights-of-old.html",
+    "url": "cybersecurity-lesson-knights-of-old.html",
     "author": "Laurentiu Mihaila",
     "date": "2024-04-15",
     "img": "assets/img/blog/blog-1.jpg",
@@ -49,7 +49,7 @@
   },
   {
     "title": "BYOD: A Blessing and a Curse",
-    "url": "/blog/byod-pros-cons-security.html",
+    "url": "byod-pros-cons-security.html",
     "author": "Laurentiu Mihaila",
     "date": "2024-04-15",
     "img": "assets/img/blog/blog-1.jpg",
@@ -57,7 +57,7 @@
   },
   {
     "title": "Shadow IT: How Uncontrolled Tech Choices Are Expanding Your Attack Surface",
-    "url": "/blog/shadow-it-attack-surface-risks.html",
+    "url": "shadow-it-attack-surface-risks.html",
     "author": "Laurentiu Mihaila",
     "date": "2024-04-15",
     "img": "assets/img/blog/blog-1.jpg",
@@ -65,7 +65,7 @@
   },
   {
     "title": "AI Today How It Impacts Business — and Its Security Implications Across Key Domains",
-    "url": "/blog/ai-impact-business-security-domains.html",
+    "url": "ai-impact-business-security-domains.html",
     "author": "Laurentiu Mihaila",
     "date": "2024-04-15",
     "img": "assets/img/blog/blog-1.jpg",
@@ -73,7 +73,7 @@
   },
   {
     "title": "Risk Assessment in 2025: Why Traditional Frameworks No Longer Cut It",
-    "url": "/blog/risk-assessment-2025-frameworks.html",
+    "url": "risk-assessment-2025-frameworks.html",
     "author": "Silviu Negoita",
     "date": "2025-04-05",
     "img": "assets/img/blog/blog-1.jpg",
@@ -81,7 +81,7 @@
   },
   {
     "title": "From Compliance to Culture: Embedding Risk Management Into Daily Operations",
-    "url": "/blog/embedding-risk-management-culture.html",
+    "url": "embedding-risk-management-culture.html",
     "author": "Silviu Negoita",
     "date": "2025-04-05",
     "img": "assets/img/blog/blog-1.jpg",
@@ -89,7 +89,7 @@
   },
   {
     "title": "The Hidden Risks You're Not Assessing (But Should Be)",
-    "url": "/blog/hidden-risks-in-risk-assessment.html",
+    "url": "hidden-risks-in-risk-assessment.html",
     "author": "Silviu Negoita",
     "date": "2025-04-05",
     "img": "assets/img/blog/blog-1.jpg",
@@ -97,7 +97,7 @@
   },
   {
     "title": "Quantifying Cyber Risk: Can You Really Put a Number on It?",
-    "url": "/blog/quantifying-cyber-risk.html",
+    "url": "quantifying-cyber-risk.html",
     "author": "Silviu Negoita",
     "date": "2025-04-05",
     "img": "assets/img/blog/blog-1.jpg",
@@ -105,7 +105,7 @@
   },
   {
     "title": "Preparing for the Quantum Threat: Is Your Data Really Safe?",
-    "url": "/blog/preparing-for-quantum-threat.html",
+    "url": "preparing-for-quantum-threat.html",
     "author": "Silviu Negoita",
     "date": "2025-04-05",
     "img": "assets/img/blog/blog-1.jpg",
@@ -113,7 +113,7 @@
   },
   {
     "title": "Integrating AI into Cybersecurity Governance: Balancing Innovation and Risk",
-    "url": "/blog/ai-cybersecurity-governance.html",
+    "url": "ai-cybersecurity-governance.html",
     "author": "Silviu Negoita",
     "date": "2025-04-05",
     "img": "assets/img/blog/blog-1.jpg",
@@ -121,7 +121,7 @@
   },
   {
     "title": "The Rise of Third-Party Risks: Strengthening Governance in an Interconnected World",
-    "url": "/blog/third-party-risks-governance.html",
+    "url": "third-party-risks-governance.html",
     "author": "Silviu Negoita",
     "date": "2025-04-05",
     "img": "assets/img/blog/blog-1.jpg",
@@ -129,7 +129,7 @@
   },
   {
     "title": "Evolving Regulatory Landscapes: Navigating Compliance in the Digital Age",
-    "url": "/blog/evolving-regulatory-landscapes.html",
+    "url": "evolving-regulatory-landscapes.html",
     "author": "Silviu Negoita",
     "date": "2025-04-05",
     "img": "assets/img/blog/blog-1.jpg",
@@ -137,7 +137,7 @@
   },
   {
     "title": "Building Cyber Resilience Governance Strategies for Emerging Threats",
-    "url": "/blog/cyber-resilience-governance-strategies.html",
+    "url": "cyber-resilience-governance-strategies.html",
     "author": "Silviu Negoita",
     "date": "2025-04-05",
     "img": "assets/img/blog/blog-1.jpg",
@@ -145,7 +145,7 @@
   },
   {
     "title": "The UK's Data (Use and Access) Bill: What It Means for Privacy, Innovation, and Compliance",
-    "url": "/blog/uk-data-use-access-bill.html",
+    "url": "uk-data-use-access-bill.html",
     "author": "Silviu Negoita",
     "date": "2025-04-05",
     "img": "assets/img/blog/blog-1.jpg",
@@ -153,7 +153,7 @@
   },
   {
     "title": "Subject Access Requests: Adapting to New Compliance Challenges",
-    "url": "/blog/subject-access-requests-compliance.html",
+    "url": "subject-access-requests-compliance.html",
     "author": "Silviu Negoita",
     "date": "2025-04-05",
     "img": "assets/img/blog/blog-1.jpg",
@@ -161,7 +161,7 @@
   },
   {
     "title": "EU-UK Data Transfers Post-Brexit: Navigating Adequacy and Compliance",
-    "url": "/blog/eu-uk-data-transfers-post-brexit.html",
+    "url": "eu-uk-data-transfers-post-brexit.html",
     "author": "Silviu Negoita",
     "date": "2025-04-05",
     "img": "assets/img/blog/blog-1.jpg",
@@ -169,7 +169,7 @@
   },
   {
     "title": "MFA and IAM: Why Strong Identity Management Is Now Core to Data Protection",
-    "url": "/blog/mfa-iam-identity-management.html",
+    "url": "mfa-iam-identity-management.html",
     "author": "Silviu Negoita",
     "date": "2025-04-05",
     "img": "assets/img/blog/blog-1.jpg",
@@ -177,7 +177,7 @@
   },
   {
     "title": "Zero Trust and SASE: Building the Future of Network Security",
-    "url": "/blog/zero-trust-sase-network-security.html",
+    "url": "zero-trust-sase-network-security.html",
     "author": "Laurentiu Mihaila",
     "date": "2024-04-15",
     "img": "assets/img/blog/blog-1.jpg",
@@ -185,7 +185,7 @@
   },
   {
     "title": "AI-Driven Threat Detection: Revolutionizing Cloud Security in 2025",
-    "url": "/blog/ai-threat-detection-cloud-security.html",
+    "url": "ai-threat-detection-cloud-security.html",
     "author": "Laurentiu Mihaila",
     "date": "2024-04-15",
     "img": "assets/img/blog/blog-1.jpg",
@@ -193,7 +193,7 @@
   },
   {
     "title": "Navigating Multi-Cloud Environments: Strategies for Enhanced Security Posture",
-    "url": "/blog/multi-cloud-security-strategies.html",
+    "url": "multi-cloud-security-strategies.html",
     "author": "Laurentiu Mihaila",
     "date": "2024-04-15",
     "img": "assets/img/blog/blog-1.jpg",
@@ -201,7 +201,7 @@
   },
   {
     "title": "Securing the Edge: Why Edge Computing Needs a New Security Mindset",
-    "url": "/blog/securing-edge-computing.html",
+    "url": "securing-edge-computing.html",
     "author": "Laurentiu Mihaila",
     "date": "2024-04-15",
     "img": "assets/img/blog/blog-1.jpg",
