@@ -3,6 +3,7 @@
     "title": "DORA Compliance: Is It Relevant for Finance Companies (Even Outside the EU)?",
     "url": "blog/compliance/dora-compliance-finance-companies.html",
     "author": "Silviu Negoita",
+    "authorImg": "assets/img/blog/blog-author-2.jpg",
     "date": "2025-04-05",
     "img": "assets/img/blog/blog-1.jpg",
     "category": "Compliance"
@@ -11,70 +12,79 @@
     "title": "Cyber Essentials Explained: Costs, Benefits & Why You Should Consider It",
     "url": "blog/compliance/cyber-essentials-costs-benefits.html",
     "author": "Silviu Negoita",
+    "authorImg": "assets/img/blog/blog-author-6.jpg",
     "date": "2025-04-05",
-    "img": "assets/img/blog/blog-1.jpg",
+    "img": "assets/img/blog/blog-4.jpg",
     "category": "Compliance"
   },
   {
     "title": "NIS2 Gap Analysis: What Business Leaders Must Know Before the Audit",
     "url": "blog/compliance/nis2-gap-analysis-business-audit.html",
     "author": "Silviu Negoita",
+    "authorImg": "assets/img/blog/blog-author-5.jpg",
     "date": "2025-04-05",
-    "img": "assets/img/blog/blog-1.jpg",
+    "img": "assets/img/blog/blog-3.jpg",
     "category": "Compliance"
   },
   {
     "title": "NIS2 and UK Businesses: Why It Matters Even Beyond the EU",
     "url": "blog/compliance/nis2-uk-businesses-importance.html",
     "author": "Silviu Negoita",
+    "authorImg": "assets/img/blog/blog-author-2.jpg",
     "date": "2025-04-05",
-    "img": "assets/img/blog/blog-1.jpg",
+    "img": "assets/img/blog/blog-2.jpg",
     "category": "Compliance"
   },
   {
     "title": "Top Cybersecurity Risks for SMBs in 2024 (And How to Tackle Them)",
     "url": "blog/security/cybersecurity-risks-smbs-2024.html",
     "author": "Laurentiu Mihaila",
+    "authorImg": "assets/img/blog/blog-author-3.jpg",
     "date": "2024-04-15",
-    "img": "assets/img/blog/blog-1.jpg",
+    "img": "assets/img/blog/blog-4.jpg",
     "category": "Security"
   },
   {
     "title": "The Fall of Knights of Old: A Brutal Lesson in Cybersecurity",
     "url": "blog/security/cybersecurity-lesson-knights-of-old.html",
     "author": "Laurentiu Mihaila",
+    "authorImg": "assets/img/blog/blog-author-6.jpg",
     "date": "2024-04-15",
-    "img": "assets/img/blog/blog-1.jpg",
+    "img": "assets/img/blog/blog-5.jpg",
     "category": "Security"
   },
   {
     "title": "BYOD: A Blessing and a Curse",
     "url": "blog/security/byod-pros-cons-security.html",
     "author": "Laurentiu Mihaila",
+    "authorImg": "assets/img/blog/blog-author-5.jpg",
     "date": "2024-04-15",
-    "img": "assets/img/blog/blog-1.jpg",
+    "img": "assets/img/blog/blog-6.jpg",
     "category": "Security"
   },
   {
     "title": "Shadow IT: How Uncontrolled Tech Choices Are Expanding Your Attack Surface",
     "url": "blog/security/shadow-it-attack-surface-risks.html",
     "author": "Laurentiu Mihaila",
+    "authorImg": "assets/img/blog/blog-author-3.jpg",
     "date": "2024-04-15",
-    "img": "assets/img/blog/blog-1.jpg",
+    "img": "assets/img/blog/blog-4.jpg",
     "category": "Security"
   },
   {
     "title": "AI Today How It Impacts Business — and Its Security Implications Across Key Domains",
     "url": "blog/security/ai-impact-business-security-domains.html",
     "author": "Laurentiu Mihaila",
+    "authorImg": "assets/img/blog/blog-author-6.jpg",
     "date": "2024-04-15",
-    "img": "assets/img/blog/blog-1.jpg",
+    "img": "assets/img/blog/blog-3.jpg",
     "category": "Security"
   },
   {
     "title": "Risk Assessment in 2025: Why Traditional Frameworks No Longer Cut It",
     "url": "blog/risk-management/risk-assessment-2025-frameworks.html",
     "author": "Silviu Negoita",
+    "authorImg": "assets/img/blog/blog-author-3.jpg",
     "date": "2025-04-05",
     "img": "assets/img/blog/blog-1.jpg",
     "category": "Risk Management"
@@ -83,70 +93,79 @@
     "title": "From Compliance to Culture: Embedding Risk Management Into Daily Operations",
     "url": "blog/risk-management/embedding-risk-management-culture.html",
     "author": "Silviu Negoita",
+    "authorImg": "assets/img/blog/blog-author-4.jpg",
     "date": "2025-04-05",
-    "img": "assets/img/blog/blog-1.jpg",
+    "img": "assets/img/blog/blog-3.jpg",
     "category": "Risk Management"
   },
   {
     "title": "The Hidden Risks You're Not Assessing (But Should Be)",
     "url": "blog/risk-management/hidden-risks-in-risk-assessment.html",
     "author": "Silviu Negoita",
+    "authorImg": "assets/img/blog/blog-author-5.jpg",
     "date": "2025-04-05",
-    "img": "assets/img/blog/blog-1.jpg",
+    "img": "assets/img/blog/blog-4.jpg",
     "category": "Risk Management"
   },
   {
     "title": "Quantifying Cyber Risk: Can You Really Put a Number on It?",
     "url": "blog/risk-management/quantifying-cyber-risk.html",
     "author": "Silviu Negoita",
+    "authorImg": "assets/img/blog/blog-author-6.jpg",
     "date": "2025-04-05",
-    "img": "assets/img/blog/blog-1.jpg",
+    "img": "assets/img/blog/blog-5.jpg",
     "category": "Risk Management"
   },
   {
     "title": "Preparing for the Quantum Threat: Is Your Data Really Safe?",
     "url": "blog/risk-management/preparing-for-quantum-threat.html",
     "author": "Silviu Negoita",
+    "authorImg": "assets/img/blog/blog-author-4.jpg",
     "date": "2025-04-05",
-    "img": "assets/img/blog/blog-1.jpg",
+    "img": "assets/img/blog/blog-6.jpg",
     "category": "Risk Management"
   },
   {
     "title": "Integrating AI into Cybersecurity Governance: Balancing Innovation and Risk",
     "url": "blog/governance/ai-cybersecurity-governance.html",
     "author": "Silviu Negoita",
+    "authorImg": "assets/img/blog/blog-author-3.jpg",
     "date": "2025-04-05",
-    "img": "assets/img/blog/blog-1.jpg",
+    "img": "assets/img/blog/blog-2.jpg",
     "category": "Governance"
   },
   {
     "title": "The Rise of Third-Party Risks: Strengthening Governance in an Interconnected World",
     "url": "blog/governance/third-party-risks-governance.html",
     "author": "Silviu Negoita",
+    "authorImg": "assets/img/blog/blog-author-5.jpg",
     "date": "2025-04-05",
-    "img": "assets/img/blog/blog-1.jpg",
+    "img": "assets/img/blog/blog-4.jpg",
     "category": "Governance"
   },
   {
     "title": "Evolving Regulatory Landscapes: Navigating Compliance in the Digital Age",
     "url": "blog/governance/evolving-regulatory-landscapes.html",
     "author": "Silviu Negoita",
+    "authorImg": "assets/img/blog/blog-author-6.jpg",
     "date": "2025-04-05",
-    "img": "assets/img/blog/blog-1.jpg",
+    "img": "assets/img/blog/blog-5.jpg",
     "category": "Governance"
   },
   {
     "title": "Building Cyber Resilience Governance Strategies for Emerging Threats",
     "url": "blog/governance/cyber-resilience-governance-strategies.html",
     "author": "Silviu Negoita",
+    "authorImg": "assets/img/blog/blog-author-2.jpg",
     "date": "2025-04-05",
-    "img": "assets/img/blog/blog-1.jpg",
+    "img": "assets/img/blog/blog-6.jpg",
     "category": "Governance"
   },
   {
     "title": "The UK's Data (Use and Access) Bill: What It Means for Privacy, Innovation, and Compliance",
     "url": "blog/data-protection/uk-data-use-access-bill.html",
     "author": "Silviu Negoita",
+    "authorImg": "assets/img/blog/blog-author-3.jpg",
     "date": "2025-04-05",
     "img": "assets/img/blog/blog-1.jpg",
     "category": "Data Protection"
@@ -155,46 +174,52 @@
     "title": "Subject Access Requests: Adapting to New Compliance Challenges",
     "url": "blog/data-protection/subject-access-requests-compliance.html",
     "author": "Silviu Negoita",
+    "authorImg": "assets/img/blog/blog-author-5.jpg",
     "date": "2025-04-05",
-    "img": "assets/img/blog/blog-1.jpg",
+    "img": "assets/img/blog/blog-2.jpg",
     "category": "Data Protection"
   },
   {
     "title": "EU-UK Data Transfers Post-Brexit: Navigating Adequacy and Compliance",
     "url": "blog/data-protection/eu-uk-data-transfers-post-brexit.html",
     "author": "Silviu Negoita",
+    "authorImg": "assets/img/blog/blog-author-4.jpg",
     "date": "2025-04-05",
-    "img": "assets/img/blog/blog-1.jpg",
+    "img": "assets/img/blog/blog-3.jpg",
     "category": "Data Protection"
   },
   {
     "title": "MFA and IAM: Why Strong Identity Management Is Now Core to Data Protection",
     "url": "blog/data-protection/mfa-iam-identity-management.html",
     "author": "Silviu Negoita",
+    "authorImg": "assets/img/blog/blog-author-2.jpg",
     "date": "2025-04-05",
-    "img": "assets/img/blog/blog-1.jpg",
+    "img": "assets/img/blog/blog-5.jpg",
     "category": "Data Protection"
   },
   {
     "title": "Zero Trust and SASE: Building the Future of Network Security",
     "url": "blog/network-infrastructure/zero-trust-sase-network-security.html",
     "author": "Laurentiu Mihaila",
+    "authorImg": "assets/img/blog/blog-author-6.jpg",
     "date": "2024-04-15",
-    "img": "assets/img/blog/blog-1.jpg",
+    "img": "assets/img/blog/blog-4.jpg",
     "category": "Network & Infrastructure"
   },
   {
     "title": "AI-Driven Threat Detection: Revolutionizing Cloud Security in 2025",
     "url": "blog/network-infrastructure/ai-threat-detection-cloud-security.html",
     "author": "Laurentiu Mihaila",
+    "authorImg": "assets/img/blog/blog-author-2.jpg",
     "date": "2024-04-15",
-    "img": "assets/img/blog/blog-1.jpg",
+    "img": "assets/img/blog/blog-2.jpg",
     "category": "Network & Infrastructure"
   },
   {
     "title": "Navigating Multi-Cloud Environments: Strategies for Enhanced Security Posture",
     "url": "blog/network-infrastructure/multi-cloud-security-strategies.html",
     "author": "Laurentiu Mihaila",
+    "authorImg": "assets/img/blog/blog-author-3.jpg",
     "date": "2024-04-15",
     "img": "assets/img/blog/blog-1.jpg",
     "category": "Network & Infrastructure"
@@ -203,8 +228,9 @@
     "title": "Securing the Edge: Why Edge Computing Needs a New Security Mindset",
     "url": "blog/network-infrastructure/securing-edge-computing.html",
     "author": "Laurentiu Mihaila",
+    "authorImg": "assets/img/blog/blog-author-4.jpg",
     "date": "2024-04-15",
-    "img": "assets/img/blog/blog-1.jpg",
+    "img": "assets/img/blog/blog-6.jpg",
     "category": "Network & Infrastructure"
   }
 ]

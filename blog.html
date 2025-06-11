@@ -452,7 +452,7 @@
               <a href="${article.url}">${article.title}</a>
             </h2>
             <div class="d-flex align-items-center">
-              <img src="/assets/img/blog/blog-author.jpg" alt="" class="img-fluid post-author-img flex-shrink-0">
+              <img src="${article.authorImg}" alt="" class="img-fluid post-author-img flex-shrink-0">
               <div class="post-meta">
                 <p class="post-author">${article.author}</p>
                 <p class="post-date"><time datetime="${article.date}">${new Date(article.date).toDateString()}</time></p>
