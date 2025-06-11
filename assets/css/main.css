@@ -2444,6 +2444,24 @@ section,
   max-height: 240px;
   margin: -30px -30px 15px -30px;
   overflow: hidden;
+  position: relative !important;
+}
+
+.blog-posts .post-img .news-badge {
+  position: absolute;
+  top: 10px;
+  left: -40px;
+  background: red;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 5px 10px;
+  border-radius: 3px;
+  transform: rotate(-45deg);
+  z-index: 10;
+  width: 120px;
+  display: flex;
+  justify-content: center;
 }
 
 .blog-posts .post-category {

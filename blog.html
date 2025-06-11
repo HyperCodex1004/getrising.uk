@@ -123,11 +123,11 @@
       <div class="container">
         <div class="row gy-4" id="blog-grid">
 
-          <!-- <div class="col-lg-4">
+          <div class="col-lg-4 isotope-item Security">
             <article>
 
               <div class="post-img">
-                <img src="assets/img/blog/blog-1.jpg" alt="" class="img-fluid">
+                <img src="assets/img/blog/blog-4.jpg" alt="" class="img-fluid">
               </div>
 
               <p class="post-category">Security</p>
@@ -149,7 +149,7 @@
             </article>
           </div>
 
-          <div class="col-lg-4">
+          <div class="col-lg-4 isotope-item">
             <article>
 
               <div class="post-img">
@@ -175,7 +175,7 @@
             </article>
           </div>
 
-          <div class="col-lg-4">
+          <!-- <div class="col-lg-4">
             <article>
 
               <div class="post-img">
@@ -433,10 +433,9 @@
 
 <!-- JavaScript to load articles -->
   <script>
-  fetch('http://localhost:8000/blog/recent.json')
+  fetch('/blog/recent.json')
     .then(res => res.json())
     .then(articles => {
-      console.log(articles, '==================')
       const grid = document.getElementById("blog-grid");
 
       articles.forEach(article => {
@@ -445,11 +444,12 @@
         div.innerHTML = `
           <article>
             <div class="post-img">
+              <span class="news-badge">News</span>
               <img src="${article.img}" class="img-fluid" alt="">
             </div>
             <p class="post-category">${article.category}</p>
             <h2 class="title">
-              <a href="/blog/${article.url}">${article.title}</a>
+              <a href="${article.url}">${article.title}</a>
             </h2>
             <div class="d-flex align-items-center">
               <img src="/assets/img/blog/blog-author.jpg" alt="" class="img-fluid post-author-img flex-shrink-0">
@@ -460,7 +460,7 @@
             </div>
           </article>
         `;
-        grid.appendChild(div);
+        grid.insertBefore(div, grid.firstChild);
       });
 
       setTimeout(() => {
