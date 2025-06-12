@@ -21,6 +21,10 @@
   --accent-color: #0ea2bd; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
   --surface-color: #ffffff; /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
   --contrast-color: #ffffff; /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
+  --red-color: #dc143c; /* Alert or emphasis color, commonly used for error messages, warnings, or critical elements */
+  --text-color: #333; /* Standard text color for body content, ensuring good readability against light backgrounds */
+  --light-gray: #596083; /* Subtle neutral color used for secondary text, borders, or muted UI elements */
+  --dark-gray: #2f3a5a; /* Deeper neutral shade used for footers, strong text emphasis, or backgrounds that require higher contrast */
 }
 
 /* Nav Menu Colors - The following color variables are used specifically for the navigation menu. They are separate from the global colors to allow for more customization options */
@@ -2451,7 +2455,7 @@ section,
   position: absolute;
   top: 10px;
   left: -40px;
-  background: red;
+  background: var(--red-color);
   color: white;
   font-size: 14px;
   font-weight: bold;
@@ -2507,7 +2511,7 @@ section,
 # Blog Pagination Section
 --------------------------------------------------------------*/
 .blog-pagination {
-  padding-top: 0;
+  padding: 20px;
   color: color-mix(in srgb, var(--default-color), transparent 40%);
 }
 
